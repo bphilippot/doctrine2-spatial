@@ -4,6 +4,8 @@ Doctrine2 multi-platform support for spatial types and functions. Currently MySQ
 
 This package is a refactor/continuation of my [doctrine2-mysql-spatial](https://github.com/djlambert/doctrine2-mysql-spatial) package.
 
+Fork of djlambert/doctrine2-spatial to add multipolygon geometries
+
 ## Types
 The following SQL/OpenGIS types have been implemented as PHP objects and accompanying Doctrine types:
 
